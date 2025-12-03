@@ -102,6 +102,34 @@ export default function GuidePage() {
       </section>
 
       <section className="section">
+  <h2>Q. What about the Minor Specialization Project (8 credits)? Does it count for CGPA?</h2>
+  <p>
+    Yes — the <b>minor specialization project is graded and counted towards your
+    CGPA</b>. It is <b>not</b> Satisfactory / Non-Satisfactory like UHV/CPI.
+  </p>
+  <p style={{ marginTop: "0.6rem", opacity: 0.85 }}>
+    There is still a bit of uncertainty about whether the grade is multiplied by
+    the full <b>8 credits</b> or calculated differently for GPA. Different people
+    seem to have different information on this, so it’s best to double-check with
+    your dept once officially notified.
+  </p>
+</section>
+<section className="section">
+  <h2>Q. What about the Minor Specialization Project (8 credits)? Does it count for CGPA?</h2>
+  <p>
+    Yes — the <b>minor specialization project is graded and counted towards your
+    CGPA</b>. It is <b>not</b> Satisfactory / Non-Satisfactory like UHV/CPI.
+  </p>
+  <p style={{ marginTop: "0.6rem", opacity: 0.85 }}>
+    There is still a bit of uncertainty about whether the grade is multiplied by
+    the full <b>8 credits</b> or calculated differently for GPA. Different people
+    seem to have different information on this, so it’s best to double-check with
+    your dept once officially notified.
+  </p>
+</section>
+
+
+      <section className="section">
         <h2>Q. How do I choose between Marketing vs Tech PEs?</h2>
         <p>
           This is honestly very personal. Some seniors prefer Digital Marketing
