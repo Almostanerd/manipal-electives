@@ -80,7 +80,7 @@ export default function GuidePage() {
         </ul>
         <p style={{ marginTop: "0.6rem", opacity: 0.85 }}>
           This obviously depends on the company, role and competition in that year,
-          but this is the general range most seniors agree on.
+          but this is the general range most seniors agree on (for placements). It is quite similar for course cut offs too.
         </p>
       </section>
 
