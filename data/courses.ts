@@ -269,7 +269,7 @@ export const courses: Course[] = [
     name: "Yoga",
     type: "OE",
     dept: "IIE",
-    credits: 2,
+    credits: 3,
     semester: 6,
     buckets: ["OE"],
     summary:
@@ -280,7 +280,7 @@ export const courses: Course[] = [
     name: "Medical Emergency and First Aid",
     type: "OE",
     dept: "IIE",
-    credits: 2,
+    credits:3,
     semester: 6,
     buckets: ["OE"],
     summary:
@@ -291,7 +291,7 @@ export const courses: Course[] = [
     name: "Reporting and Writing",
     type: "OE",
     dept: "IIE",
-    credits: 2,
+    credits: 3,
     semester: 6,
     buckets: ["OE"],
     summary:
@@ -302,7 +302,7 @@ export const courses: Course[] = [
     name: "Media Production Techniques",
     type: "OE",
     dept: "IIE",
-    credits: 2,
+    credits: 3,
     semester: 6,
     buckets: ["OE"],
     summary:
@@ -313,7 +313,7 @@ export const courses: Course[] = [
     name: "Meditation and Conscious Living Course",
     type: "OE",
     dept: "IIE",
-    credits: 2,
+    credits: 3,
     semester: 6,
     buckets: ["OE"],
     summary:
@@ -324,7 +324,7 @@ export const courses: Course[] = [
     name: "Discerning India: Living Cultures of Tulunadu",
     type: "OE",
     dept: "IIE",
-    credits: 2,
+    credits: 3,
     semester: 6,
     buckets: ["OE"],
     summary:
@@ -335,7 +335,7 @@ export const courses: Course[] = [
     name: "Introduction to Foreign Language - French I",
     type: "OE",
     dept: "IIE",
-    credits: 2,
+    credits: 3,
     semester: 6,
     buckets: ["OE"],
     summary:
