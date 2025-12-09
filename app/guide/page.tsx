@@ -190,7 +190,7 @@ export default function GuidePage() {
   <p style={{ opacity: 0.85, fontSize: "0.9rem" }}>
     Only four seniors have filled the form so far, but their inputs are super 
     helpful. Sharing them here exactly as summarised. More will be added as 
-    responses come in.
+    responses come in. Would really appreciate any more insights, thank you.
   </p>
 
   {/* FILM STUDIES */}
