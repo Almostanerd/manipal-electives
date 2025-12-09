@@ -185,6 +185,80 @@ export default function GuidePage() {
         </a>
       </section>
 
+      <section className="section">
+  <h2>⭐ Update: Senior Insights (first 4 responses)</h2>
+  <p style={{ opacity: 0.85, fontSize: "0.9rem" }}>
+    Only four seniors have filled the form so far, but their inputs are super 
+    helpful. Sharing them here exactly as summarised. More will be added as 
+    responses come in.
+  </p>
+
+  {/* FILM STUDIES */}
+  <div style={{ marginTop: "1rem" }}>
+    <h3>🎬 HUM 4322 — Film Studies (OE)</h3>
+    <ul className="section-list">
+      <li><b>Difficulty:</b> Very chill</li>
+      <li><b>Attendance:</b> Cool</li>
+      <li><b>Internals:</b> Mainly assignments</li>
+      <li><b>Grading:</b> Not graded (pass/fail style)</li>
+      <li><b>Review:</b> “Very chill subject, cool professor, highly recommended.”</li>
+    </ul>
+  </div>
+
+  {/* ENTERPRISE RISK MANAGEMENT */}
+  <div style={{ marginTop: "1.4rem" }}>
+    <h3>📊 HUM 4337 — Introduction to Enterprise Risk Management (OE)</h3>
+    <ul className="section-list">
+      <li><b>Difficulty:</b> Very chill to moderate</li>
+      <li><b>Attendance:</b> Cool</li>
+      <li><b>Internals:</b> Quizzes + midsems (straightforward)</li>
+      <li><b>Grading:</b> Easy to score</li>
+      <li>
+        <b>Review:</b> “Very interesting if you like business case studies + 
+        discussions. You can get an IRM Level 1 certificate (paid) which actually 
+        adds value to your resume.”
+      </li>
+      <li><b>Advice:</b> Focus a bit in class + case studies, and study 8 hrs before exam = B+ or above.</li>
+    </ul>
+  </div>
+
+  {/* REPORTING & WRITING */}
+  <div style={{ marginTop: "1.4rem" }}>
+    <h3>📝 IIE 4315 — Introduction to Reporting & Writing (OE)</h3>
+    <ul className="section-list">
+      <li><b>Difficulty:</b> The chillest course ever (according to senior)</li>
+      <li><b>Attendance:</b> Extremely lenient — “tell any reason and she’ll mark you present”</li>
+      <li><b>Internals:</b> 2 quizzes + 2 assignments</li>
+      <li><b>Grading:</b> Very easy to get a good grade</li>
+      <li>
+        <b>Review:</b> “Hardly 20 classes out of 36 before midsem, only 3–4 after.
+        You can do anything in class, nobody cares. Studied 1.5 hours total.”
+      </li>
+      <li><b>Advice:</b> Read the newspaper before exam → easy 80%.</li>
+    </ul>
+  </div>
+
+  {/* MEDIA PRODUCTION TECHNIQUES */}
+  <div style={{ marginTop: "1.4rem" }}>
+    <h3>🎥 IIE 4318 — Media Production Techniques (OE)</h3>
+    <ul className="section-list">
+      <li><b>Difficulty:</b> Very chill</li>
+      <li><b>Attendance:</b> Mixed but mostly chill</li>
+      <li>
+        <b>Internals:</b> One difficult assignment got replaced with an easy written 
+        home assignment; midsem was 25 marks for some reason.
+      </li>
+      <li><b>Grading:</b> Easy</li>
+      <li>
+        <b>Review:</b> “Can get boring at times, but classes in the radio lab at MIC 
+        were pretty cool.”
+      </li>
+      <li><b>Advice:</b> Just read once before exams.</li>
+    </ul>
+  </div>
+</section>
+
+
       <div style={{ marginTop: "1.8rem", opacity: 0.8, fontSize: "0.8rem" }}>
         👀 Visitors:{" "}
         <img
